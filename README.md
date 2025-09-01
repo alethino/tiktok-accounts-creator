@@ -3,7 +3,7 @@
 
 # tiktok-accounts-maker
 TikTok accounts maker created users algorithms x-ladon x-argus x-gorgon last version
-## last version 39.4.3
+## last version 41.5.3
 
 **Contact for api :** [https://t.me/Neo_Galaxy](https://t.me/Neo_Galaxy)
 ## telegram: @neo_galaxy
@@ -11,7 +11,7 @@ TikTok accounts maker created users algorithms x-ladon x-argus x-gorgon last ver
 ```json
 [
     {
-        "register_time": "2025-02-10 22:56:40",
+        "register_time": "2025-09-01 22:56:40",
         "username": "actjqilkfng",
         "password": "Ouncnnsdf!",
         "email": "bdmasudrtdu@tozya111.com",
